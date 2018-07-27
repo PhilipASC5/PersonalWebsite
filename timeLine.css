@@ -1,0 +1,22 @@
+html{
+  background-image: url(background-pic.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  text-align:center;
+    font-size:40px;
+    
+}
+h4{
+  text-align:center;
+  font-size: 40px;
+  
+}
+.navBar{
+  display:flex;
+  justify-content: space-around;
+  align-content: center;
+ width: 600px;
+}
